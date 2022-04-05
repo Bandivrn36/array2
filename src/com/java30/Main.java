@@ -45,6 +45,6 @@ public class Main {
         randomGenerate();
         printArray(colors);
         rotate(colors);
-        System.out.println("Готово");
+        //System.out.println("Готово");
     }
 }
